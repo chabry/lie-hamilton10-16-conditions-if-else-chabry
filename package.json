@@ -4,8 +4,7 @@
   "description": "This assignment aims to reinforce the understanding and usage of the 'if...else' statements in JavaScript.",
   "main": "07-01-control-flow-conditional-statements-if-else.js",
   "scripts": {
-    "test": "jest"
-    // "test": "jest --detectOpenHandles --forceExit"
+    "test": "jest --detectOpenHandles --forceExit"
   },
   "author": "",
   "license": "ISC",
